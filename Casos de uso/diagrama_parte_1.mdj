@@ -11271,6 +11271,108 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAGOxTK9DTgCq6I="
 							}
+						},
+						{
+							"_type": "UMLPackageView",
+							"_id": "AAAAAAGOxTy3XabdFwE=",
+							"_parent": {
+								"$ref": "AAAAAAGOwyBMRZHfq4s="
+							},
+							"model": {
+								"$ref": "AAAAAAGOxTy3XabbB1s="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGOxTy3Xabe2y8=",
+									"_parent": {
+										"$ref": "AAAAAAGOxTy3XabdFwE="
+									},
+									"model": {
+										"$ref": "AAAAAAGOxTy3XabbB1s="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGOxTy3XabfA/Q=",
+											"_parent": {
+												"$ref": "AAAAAAGOxTy3Xabe2y8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -160,
+											"top": -288,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGOxTy3XabgltM=",
+											"_parent": {
+												"$ref": "AAAAAAGOxTy3Xabe2y8="
+											},
+											"font": "Arial;13;1",
+											"left": 117,
+											"top": 654,
+											"width": 128.8291015625,
+											"height": 13,
+											"text": "Grupo UFRGSbridge"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGOxTy3XabhDRE=",
+											"_parent": {
+												"$ref": "AAAAAAGOxTy3Xabe2y8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -160,
+											"top": -288,
+											"width": 80.9072265625,
+											"height": 13,
+											"text": "(from Model1)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGOxTy3XabiUNk=",
+											"_parent": {
+												"$ref": "AAAAAAGOxTy3Xabe2y8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -160,
+											"top": -288,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 112,
+									"top": 647,
+									"width": 138.8291015625,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGOxTy3XabfA/Q="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGOxTy3XabgltM="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGOxTy3XabhDRE="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGOxTy3XabiUNk="
+									}
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 112,
+							"top": 632,
+							"width": 137.8291015625,
+							"height": 40,
+							"nameCompartment": {
+								"$ref": "AAAAAAGOxTy3Xabe2y8="
+							}
 						}
 					]
 				},
@@ -12321,6 +12423,14 @@
 							}
 						}
 					]
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGOxTy3XabbB1s=",
+					"_parent": {
+						"$ref": "AAAAAAGOwyBMRJHeNbQ="
+					},
+					"name": "Grupo UFRGSbridge"
 				}
 			]
 		}
